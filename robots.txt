@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://narisan412-debug.github.io/wakuwaku-monster-adventure/sitemap.xml
